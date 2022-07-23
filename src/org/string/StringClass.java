@@ -63,7 +63,7 @@ public class StringClass {
 		
 		int compareTo = a.compareTo(a1);
 		System.out.println(compareTo);
-		
+		System.out.println("suresh");
 		
 		
 
